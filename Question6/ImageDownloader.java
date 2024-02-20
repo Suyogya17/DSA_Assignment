@@ -271,9 +271,7 @@ public class ImageDownloader extends javax.swing.JFrame {
             return progress;
         }
     }
-    /**
-     * @param args
-     */
+    
     public static void main(String args[]) {
         try {
             for (javax.swing.UIManager.LookAndFeelInfo info : javax.swing.UIManager.getInstalledLookAndFeels()) {
