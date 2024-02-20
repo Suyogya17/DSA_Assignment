@@ -20,7 +20,7 @@ public class SocialMediaApp extends JFrame {
     private Map<String, UserProfile> userProfiles;
 
     public SocialMediaApp() {
-        setTitle("Social Media App");
+        setTitle("Lets Talk");
         setSize(500, 400);
         setDefaultCloseOperation(EXIT_ON_CLOSE);
         setLayout(new BorderLayout());
